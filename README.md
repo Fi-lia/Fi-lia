@@ -1,8 +1,9 @@
 ### Hello, I'm Julia 👋🏼👩
+`Promo 2023 en formation developpeur Web/Web mobile`
 
 Dès notre plus jeune âge, on nous apprend à utiliser le monde Internet et à naviguer sur le Web avec concentration, mais je me suis toujours demandé ce qu'il y a dans les coulisses des sites Web auxquels nous accédons quotidiennement ?
 
-Promo 2023 en formation developpeur Web/Web mobile
+
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://mobile.twitter.com/fiilia_cm)
@@ -16,6 +17,7 @@ L'objectif numéro 1 :
 >
 > Ne jamais abandonner est la clé du succès
 
+### LANGAGES AND TOOLS
 
 
 
