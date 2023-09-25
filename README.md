@@ -1,16 +1,16 @@
 ### Hello, I'm Julia 👋🏼👩
 
+Dès notre plus jeune âge, on nous apprend à utiliser le monde Internet et à naviguer sur le Web avec concentration, mais je me suis toujours demandé ce qu'il y a dans les coulisses des sites Web auxquels nous accédons quotidiennement ?
+
 Promo 2023 en formation developpeur Web/Web mobile
 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]()
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://mobile.twitter.com/fiilia_cm)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
 
-Dès notre plus jeune âge, on nous apprend à utiliser le monde Internet et à naviguer sur le Web avec concentration, mais je me suis toujours demandé ce qu'il y a dans les coulisses des sites Web auxquels nous accédons quotidiennement ?
 
 L'objectif numéro 1 :
 - [ ] Etre une professionelle de l'informatique !
-
 
 >[!IMPORTANT]
 >
